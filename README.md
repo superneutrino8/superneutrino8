@@ -21,14 +21,7 @@ Education
 Experience
 ----------
 2018-Current
-:	*Tata Consultancy Services*  
-	• Planned, developed, tested, deployed, and maintained web applications.
-  	• Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed.
-  	• Wrote SQL statements and stored procedures.
-  	• Automating Monitoring task and triggering mail using SQL Queries.
-  	• Developed Webpages using Histroian interface to display real time data and trend.
-  	• Developed utilities from base code to fetch selected data from Excel files and dump into Peleton WellView Database for automation.
-
+:	*Tata Consultancy Services*  - Assistant System Engineer
 
 IT Strengths
 ------------
@@ -60,13 +53,6 @@ Awards
 2018
 :	*ILP Kudos*  
         Training program conducted by Tata Consultnacy Services for new joiners where ILP Kudos is given to employee with top performance in training.  
-
-
-Languages
----------
-English, 
-Gujarati, 
-Hindi
 
 
 Other activities
