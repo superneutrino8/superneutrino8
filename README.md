@@ -18,13 +18,6 @@ Education
 	CGPA: 7.78 
 
 
-Awards
-------
-2018
-:	*ILP Kudos*  
-        Training program conducted by Tata Consultnacy Services for new joiners where ILP Kudos is given to employee with top performance in training.  
-
-
 Experience
 ----------
 2018-Current
@@ -61,6 +54,13 @@ Name | Description | Technology Stack | Preview
 [Catch Of The Day](https://github.com/superneutrino8/catch-of-the-day) | Catch Of The Day - Fish Store using React. | HTML, CSS, JavaScript, React, React Router, Firebase | [Live](https://catch-the-fish-superneutrino8.netlify.app/)
 [Dang That's Delicious](https://github.com/superneutrino8/dang-thats-delicious) | Dang That's Delicious - Restaurants Finder/Review using Node. | Node, PUG, Express, Passport, Mongoose, MongoDB | [Live](https://dangg-thats-delicious.herokuapp.com/)
 [Meower - Tweets](https://github.com/superneutrino8/meower-tweet) | A basic twitter clone built to demonstrate the full stack. | Node, Express, MongoDB | [Live](https://meower-tweets.vercel.app/)
+
+Awards
+------
+2018
+:	*ILP Kudos*  
+        Training program conducted by Tata Consultnacy Services for new joiners where ILP Kudos is given to employee with top performance in training.  
+
 
 Languages
 ---------
