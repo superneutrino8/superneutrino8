@@ -52,7 +52,7 @@ Awards
 ------
 2018
 :	*ILP Kudos*  
-        Training program conducted by Tata Consultnacy Services for new joiners where ILP Kudos is given to employee with top performance in training.  
+        Training program conducted by Tata Consultancy Services for new joiners where ILP Kudos is given to employee with top performance in training.  
 
 
 Other activities
