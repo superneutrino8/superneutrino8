@@ -26,7 +26,7 @@ Experience
 IT Strengths
 ------------
 Languages
-:	HTML, CSS, JavaScript, React, NodeJS, Express, PassportJF, Moongose
+:	HTML, CSS, JavaScript, React, NodeJS, Express, PassportJS, Moongose
 
 Databases
 :	MySQL, PostgreSQL, MongoDB, Firebase
