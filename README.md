@@ -48,6 +48,7 @@ Name | Description | Technology Stack | Preview
 [Dang That's Delicious](https://github.com/superneutrino8/dang-thats-delicious) | Dang That's Delicious - Restaurants Finder/Review using Node. | Node, PUG, Express, Passport, Mongoose, MongoDB | [Live](https://dangg-thats-delicious.herokuapp.com/)
 [Meower - Tweets](https://github.com/superneutrino8/meower-tweet) | A basic twitter clone built to demonstrate the full stack. | Node, Express, MongoDB | [Live](https://meower-tweets.vercel.app/)
 [HelloCode](https://github.com/superneutrino8/hello-code) | DesignCode Home Page Replica | React, Gatsby, GraphQL | [Live](https://hellocode-plus.netlify.app/)
+[Netflix Clone](https://github.com/superneutrino8/netlfix-clone) | This project is a simplified front end clone of Netflix. | HTML, CSS, JavaScript, React, Firebase | [Live](https://netflix-clone-b01d5.web.app/)
 
 Awards
 ------
