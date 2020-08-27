@@ -1,4 +1,23 @@
-Vivek Bariya
+### Hey 👋🏽, I'm Vivek
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vivek-bariya/">
+  <img align="left" alt="Vivek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/superneutrino8/">
+  <img align="left" alt="Vivek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/geeky_abhiz">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.reddit.com/user/vivekbaraiya">
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=superneutrino8.superneutrino8)
+
+<br />
 
 Personal Details
 ---------
