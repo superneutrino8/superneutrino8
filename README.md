@@ -4,6 +4,13 @@
 
 <br>
 
+I’m a front-end web developer, based out of Pune.
+Experience in Web Development, Designing User Interface
+Applications using HTML5, CSS, Bootstrap, JavaScript,
+NodeJS, ReactJS, ExpressJS, MongoDB, Firebase.
+
+<br>
+
 <a href="https://www.linkedin.com/in/vivek-bariya/">
   <img align="left" alt="Vivek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
