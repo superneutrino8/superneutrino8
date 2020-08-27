@@ -1,6 +1,5 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vivek
-
-<br/>
+Software Developer at <a href="https://www.tcs.com/">Tata Consultancy Services</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <a href="https://www.linkedin.com/in/vivek-bariya/">
   <img align="left" alt="Vivek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
