@@ -20,25 +20,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=superneutrino8.superneutrino8)
 
 
-Personal Details
----------
-E-mail
-: vivekbaraiya7@gmail.com
-
-Website
-: [https://github.com/superneutrino8](https://github.com/superneutrino8)
-
-
-Education
----------
-
-2014 - 2018
-:	*Bachelor of Education, Computer Engineering*    
-	Birla Vishwakarma Mahavidhyalaya  
-	CGPA: 7.78 
-
-
-Experience
+Work Experience
 ----------
 2018-Current
 :	*Tata Consultancy Services*  - Assistant System Engineer
