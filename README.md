@@ -65,17 +65,3 @@ Name | Description | Technology Stack | Preview
 Github Stats
 ------
 ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=superneutrino8&show_icons=true&hide_border=true)
-
-Awards
-------
-2018
-:	*ILP Kudos*  
-        Training program conducted by Tata Consultancy Services for new joiners where ILP Kudos is given to employee with top performance in training.  
-
-
-Other activities
-----------------
-2017-2018
-:	*Photography Club Leader*  
-	Managed Photography Club during last year of college
-
