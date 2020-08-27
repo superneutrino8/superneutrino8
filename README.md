@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Vivek
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vivek
 
 <br/>
 
@@ -17,7 +17,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=superneutrino8.superneutrino8)
 
-<br />
 
 Personal Details
 ---------
