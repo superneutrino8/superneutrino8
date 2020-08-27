@@ -3,11 +3,8 @@
 <p><em>Software Developer at <a href="https://www.tcs.com/">Tata Consultancy Services</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <br>
-
-I’m a front-end web developer, based out of Pune.
-Experience in Web Development, Designing User Interface
-Applications using HTML5, CSS, Bootstrap, JavaScript,
-NodeJS, ReactJS, ExpressJS, MongoDB, Firebase.
+<p>I’m a front-end web developer, based out of Pune.<p>
+<em>steady feet • shaky hands • wandering mind</em>
 
 <br>
 
