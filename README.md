@@ -26,8 +26,6 @@ NodeJS, ReactJS, ExpressJS, MongoDB, Firebase.
 
 [![Gmail Badge](https://img.shields.io/badge/vivekbaraiya7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekbaraiya7@gmail.com)
 
-![](https://visitor-badge.glitch.me/badge?page_id=superneutrino8.superneutrino8)
-
 Work Experience
 ----------
 2018-Current
