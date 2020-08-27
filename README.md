@@ -28,11 +28,11 @@ NodeJS, ReactJS, ExpressJS, MongoDB, Firebase.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=superneutrino8.superneutrino8)
 
-
 Work Experience
 ----------
 2018-Current
 :	*Tata Consultancy Services*  - Assistant System Engineer
+
 
 IT Strengths
 ------------
