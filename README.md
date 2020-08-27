@@ -62,6 +62,8 @@ Name | Description | Technology Stack | Preview
 [Netflix Clone](https://github.com/superneutrino8/netlfix-clone) | This project is a simplified front end clone of Netflix. | HTML, CSS, JavaScript, React, Firebase | [Live](https://netflix-clone-b01d5.web.app/)
 [Amazon Clone](https://github.com/superneutrino8/amazon-clone) | This project is a simplified front end clone of Amazon. | HTML, CSS, JavaScript, React, Firebase | [Live](https://clone-123a0.web.app/)
 
+Github Stats
+------
 ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=superneutrino8&show_icons=true&hide_border=true)
 
 Awards
