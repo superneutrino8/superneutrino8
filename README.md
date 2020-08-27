@@ -24,7 +24,7 @@ NodeJS, ReactJS, ExpressJS, MongoDB, Firebase.
   <img align="left" alt="Vivek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
-![Gmail Badge](https://img.shields.io/badge/vivekbaraiya7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/vivekbaraiya7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekbaraiya7@gmail.com)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=superneutrino8.superneutrino8)
 
