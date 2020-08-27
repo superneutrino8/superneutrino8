@@ -3,9 +3,10 @@
 <p><em>Software Developer at <a href="https://www.tcs.com/">Tata Consultancy Services</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <br>
-<p>I’m a front-end web developer, based out of Pune.<p>
+I’m a front-end web developer, based out of Pune.<br>
 <em>steady feet • shaky hands • wandering mind</em>
 
+<br>
 <br>
 
 <a href="https://www.linkedin.com/in/vivek-bariya/">
