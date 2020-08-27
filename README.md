@@ -84,10 +84,3 @@ Other activities
 :	*Photography Club Leader*  
 	Managed Photography Club during last year of college
 
-Other interests
----------------
-Graphics Design, [Photography](https://www.instagram.com/superneutrino8/), Video Editing
-
-
-------
-> [LinkedIn](https://www.linkedin.com/in/vivek-bariya/) <br />
