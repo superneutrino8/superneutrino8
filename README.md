@@ -49,6 +49,7 @@ Name | Description | Technology Stack | Preview
 [Meower - Tweets](https://github.com/superneutrino8/meower-tweet) | A basic twitter clone built to demonstrate the full stack. | Node, Express, MongoDB | [Live](https://meower-tweets.vercel.app/)
 [HelloCode](https://github.com/superneutrino8/hello-code) | DesignCode Home Page Replica | React, Gatsby, GraphQL | [Live](https://hellocode-plus.netlify.app/)
 [Netflix Clone](https://github.com/superneutrino8/netlfix-clone) | This project is a simplified front end clone of Netflix. | HTML, CSS, JavaScript, React, Firebase | [Live](https://netflix-clone-b01d5.web.app/)
+[Amazon Clone](https://github.com/superneutrino8/amazon-clone) | This project is a simplified front end clone of Amazon. | HTML, CSS, JavaScript, React, Firebase | [Live](https://clone-123a0.web.app/)
 
 Awards
 ------
