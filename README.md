@@ -22,7 +22,7 @@ I’m a front-end web developer, based out of Pune.<br>
   <img align="left" alt="Vivek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
-[![Gmail Badge](https://img.shields.io/badge/vivekbaraiya7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekbaraiya7@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/vivekbaraiya7@gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekbaraiya7@gmail.com)
 
 
 Work Experience
