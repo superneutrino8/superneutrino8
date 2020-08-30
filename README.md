@@ -1,3 +1,4 @@
+<div align="center">
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vivek
 ----------
 <p><em>Software Developer at <a href="https://www.tcs.com/">Tata Consultancy Services</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
@@ -23,6 +24,8 @@ I’m a front-end web developer, based out of Pune.<br>
 </a>
 
 [![Gmail Badge](https://img.shields.io/badge/vivekbaraiya7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekbaraiya7@gmail.com)
+
+</div>
 
 Work Experience
 ----------
