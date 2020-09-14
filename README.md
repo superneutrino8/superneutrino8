@@ -58,6 +58,7 @@ Name | Description | Technology Stack | Preview
 [HelloCode](https://github.com/superneutrino8/hello-code) | DesignCode Home Page Replica | React, Gatsby, GraphQL | [Live](https://hellocode-plus.netlify.app/)
 [Netflix Clone](https://github.com/superneutrino8/netlfix-clone) | This project is a simplified front end clone of Netflix. | HTML, CSS, JavaScript, React, Firebase | [Live](https://netflix-clone-b01d5.web.app/)
 [Amazon Clone](https://github.com/superneutrino8/amazon-clone) | This project is a simplified front end clone of Amazon. | HTML, CSS, JavaScript, React, Firebase | [Live](https://clone-123a0.web.app/)
+[Hot Ones Sauces](https://github.com/superneutrino8/hot-ones-sauce) | This project is a simplified view and information about Hot One Sauces of each season. | HTML, CSS, JavaScript, React | [Live](https://hot-ones-sauce.herokuapp.com/)
 
 Github Stats
 ------
