@@ -59,7 +59,9 @@ Name | Description | Technology Stack | Preview
 [Netflix Clone](https://github.com/superneutrino8/netlfix-clone) | This project is a simplified front end clone of Netflix. | HTML, CSS, JavaScript, React, Firebase | [Live](https://netflix-clone-b01d5.web.app/)
 [Amazon Clone](https://github.com/superneutrino8/amazon-clone) | This project is a simplified front end clone of Amazon. | HTML, CSS, JavaScript, React, Firebase | [Live](https://clone-123a0.web.app/)
 [Hot Ones Sauces](https://github.com/superneutrino8/hot-ones-sauce) | This project is a simplified view and information about Hot One Sauces of each season. | HTML, CSS, JavaScript, React | [Live](https://hot-ones-sauce.herokuapp.com/)
-[Furrow Rebuilt](https://github.com/superneutrino8/furrow-rebuilt) | This project is a replica of site furrow.studio using React. | React, Context API, Hooks, Framer Motion, Styled Component | [Live](https://furrow-rebuilt.netlify.app/)
+[Furrow Rebuilt*](https://github.com/superneutrino8/furrow-rebuilt) | This project is a replica of site furrow.studio using React. | React, Context API, Hooks, Framer Motion, Styled Component | [Live](https://furrow-rebuilt.netlify.app/)
+
+**In Development*
 
 Github Stats
 ------
