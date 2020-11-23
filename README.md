@@ -25,24 +25,6 @@ I’m a front-end web developer, based out of Pune.<br>
 [![Gmail Badge](https://img.shields.io/badge/vivekbaraiya7@gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekbaraiya7@gmail.com)
 
 
-Work Experience
-----------
-2018-Current
-:	*Tata Consultancy Services*  - Assistant System Engineer
-
-
-IT Strengths
-------------
-Languages
-:	HTML, CSS, JavaScript, React, NodeJS, Express, PassportJS, Moongose, Framer Motion
-
-Databases
-:	MySQL, PostgreSQL, MongoDB, Firebase
-
-Tools
-:	Adobe XD, Figma, Webflow, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects
-
-
 Projects
 ------------
 Name | Description | Technology Stack | Preview
